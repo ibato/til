@@ -19,11 +19,11 @@ locale                   : "ko-KR"
 title                    : "TIL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ibato"
+name                     : "kkyaruek"
 description              : "Today I Learned"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ibato/til"
+repository               : "kkyaruek/til"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ibato"
+  name             : "kkyaruek"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Somewhere"
